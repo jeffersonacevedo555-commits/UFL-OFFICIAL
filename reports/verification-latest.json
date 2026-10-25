@@ -1,0 +1,45 @@
+{
+  "project": "basic",
+  "checkedAt": "2026-10-24T05:51:00.594Z",
+  "nodeVersion": "24.22.1",
+  "packageManager": "pnpm",
+  "lockfileManager": "pnpm",
+  "note": "Este informe registra comprobaciones ejecutadas o pendientes; no publica la web ni ejecuta migraciones PostgreSQL.",
+  "summary": {
+    "total": 6,
+    "passed": 6,
+    "failed": 0,
+    "pending": 0
+  },
+  "results": [
+    {
+      "name": "Versión de Node.js",
+      "ok": true
+    },
+    {
+      "name": "Auditorías estáticas del proyecto",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Pruebas automatizadas (Vitest)",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Chequeo TypeScript",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Lint",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Compilación de producción",
+      "ok": true,
+      "detail": ""
+    }
+  ]
+}

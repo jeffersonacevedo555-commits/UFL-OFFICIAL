@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-10-23T06:34:49.759Z",
+  "method": "TypeScript transpileModule; syntax-only, not full typecheck",
+  "results": [
+    {
+      "file": "netlify/functions/tournament.mts",
+      "ok": true,
+      "errors": 0
+    },
+    {
+      "file": "src/routes/index.tsx",
+      "ok": true,
+      "errors": 0
+    },
+    {
+      "file": "db/schema.ts",
+      "ok": true,
+      "errors": 0
+    }
+  ]
+}

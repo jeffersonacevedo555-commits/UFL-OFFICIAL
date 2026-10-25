@@ -1,0 +1,7 @@
+{
+  "phase": 51,
+  "check": "TypeScript transpileModule syntax-only",
+  "file": "src/routes/index.tsx",
+  "result": "passed",
+  "limitations": "This is a syntax-only check; it does not perform full type checking or a production build."
+}
